@@ -47,3 +47,8 @@ NPM:
 
  gulp-nodemon:
  - it is used to restart our server automatically when ever we change something in our code
+
+
+ To start work on the project,
+ -npm install
+ -bower install
